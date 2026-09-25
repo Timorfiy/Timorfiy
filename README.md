@@ -7,7 +7,7 @@
 
 I build web interfaces and practical tools for everyday development.
 
-**Stack** &nbsp; React · TypeScript · JavaScript · HTML · CSS
+**Stack** &nbsp; Funny · Smart · Humble (obviously) · Occasionally productive
 
 <br>
 
