@@ -1,16 +1,14 @@
-## Hi there 👋
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
+  <img src="./assets/header.svg" width="100%" alt="Timofey — Frontend developer. Web interfaces and developer tools. React and TypeScript.">
+</picture>
 
-<!--
-**Timorfiy/Timorfiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+I build web interfaces and practical tools for everyday development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack** &nbsp; React · TypeScript · JavaScript · HTML · CSS
+
+<br>
+
+**Projects** &nbsp; [SFTP/FTP Sync](https://github.com/Timorfiy/sftp-ftp-sync-ai-conflict-resolution) &nbsp; / &nbsp; [FormForge](https://github.com/Timorfiy/FormForge) &nbsp; / &nbsp; [uibook](https://github.com/Timorfiy/uibook)
