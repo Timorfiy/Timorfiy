@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-  <img src="./assets/header.svg" width="100%" alt="Timofey — Frontend developer. Web interfaces and developer tools. React and TypeScript.">
+  <img src="./assets/header.svg" width="100%" alt="Timofey — Software Engineer · Frontend.">
 </picture>
 
 <br>
