@@ -7,11 +7,7 @@
 
 I build web interfaces and practical tools for everyday development.
 
-**Stack** &nbsp; Funny · Smart · Humble (obviously) · Occasionally productive
-
-**Frontend** &nbsp; React · TypeScript · JavaScript · Vite · HTML · CSS
-
-**AI & tooling** &nbsp; MCP · Codex · Node.js · Git · VS Code API
+**Stack** &nbsp; Funny · Smart · Humble (obviously) · Occasionally productive · React · TypeScript · JavaScript · Vite · Node.js · Git · Codex · Claude
 
 <br>
 
