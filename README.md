@@ -5,7 +5,7 @@
 
 <br>
 
-I build web interfaces and practical tools for everyday development.
+Mostly frontend. Sometimes I get carried away.
 
 **Stack** &nbsp; Funny · Smart · Humble (obviously) · Occasionally productive · React · TypeScript · JavaScript · Vite · Node.js · Git · Codex · Claude
 
